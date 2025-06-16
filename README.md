@@ -121,7 +121,6 @@ Feel free to fork the repo, open issues, or submit pull requests. Contributions 
 
 ---
 
-:mortar_board: Built with help from [Codesistency](https://www.youtube.com/@codesistency) 
 ⭐ **Star this repo** if it helped you!
 📫 **Connect** on [LinkedIn](https://www.linkedin.com/in/soham-d1758) or GitHub!
 
