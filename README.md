@@ -1,6 +1,6 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
+<h1 align="center">API-Demo</h1>
 
-About This Course:
+About This Project:
 
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 -   🔥 Functional API
